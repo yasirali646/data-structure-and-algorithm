@@ -17,6 +17,7 @@ The problems solved in this repository are categorized as follows:
 - **Recursion**
 - **Backtracking**
 - **Bit Manipulation**
+- **Two Pointer**
 
 Each folder contains:
 - Problem statement.
